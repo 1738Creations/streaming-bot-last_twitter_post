@@ -22,6 +22,7 @@ There are 2 versions available in the folders:
     - Add as many as you like
   - As noted in the script, update times are kind of dynamic. The total time is divided by the number of accounts so they aren't all spammed at the same time when an update is found
   - I've pre-loaded with Trump, Crowder and Metacritic. One of them is a joke.
+  - No reason this couldn't be used for a single account, just put 1 account in the array
   
 
 LEGAL STUFF:
