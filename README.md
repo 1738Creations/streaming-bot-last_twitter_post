@@ -116,5 +116,7 @@ Shout out Sean Ranklin
 
 Pig-ups Liquid Richard.
 
+Keep this off the Mixer and YouTube Reddit threads. Most Reddit threads actually, it's a garbage place. Unless you see me posting the links. Then rock out.
+
 
 Covid19 isn't a threat. The numbers don't lie, people do. Stop using social media and supporting mainstream fake news. The WHO are corrupt.
