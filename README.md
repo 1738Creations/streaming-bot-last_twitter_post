@@ -99,6 +99,8 @@ Hopefully the comments in the code make some sense.
 
 Set the scrape times on the 'ReadLatestPost' function calls. Defaults to 60 seconds (60,000ms).
 
+To counter the ludicrously inept way Twitter delivers text content, there are some characters to format which are held in 'ArrayOfWeirdCharacters'. Feel free to add more.
+
 
 LIVE DEMO:
 ==========
