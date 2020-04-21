@@ -34,7 +34,7 @@ const opts = {
 	channels: [
 		<replace_me> // Name of channel to join, example: 'channel_name'
 	]
-};
+}
 
 // Twitch
 // Create a client with our options
